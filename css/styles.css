@@ -21,7 +21,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0,0,0,0.5);
+  background: rgba(0, 0, 0, 0.5);
   color: white;
   display: flex;
   flex-direction: column;
@@ -35,12 +35,12 @@ body {
   opacity: 1;
 }
 
-.cake_overlay > * {
+.cake_overlay>* {
   transform: translateY(100px);
   transition: transform 0.25s;
 }
 
-.cake_overlay:hover > * {
+.cake_overlay:hover>* {
   transform: translateY(0px);
 }
 
@@ -51,7 +51,7 @@ body {
   bottom: 20vw;
   text-align: center;
   color: #483434;
- -webkit-text-stroke: 2px #EED6C4;
+  -webkit-text-stroke: 2px #EED6C4;
 }
 
 .caption {
@@ -76,9 +76,11 @@ h4 {
 .contact {
   background-color: #406882;
   color: #B1D0E0;
-  font-size: 2.5vw;
+  font-size: 1.5vw;
   font-weight: bold;
   margin: 0;
+  padding: 3vw;
+  font-family: 'Merriweather', serif;
 }
 
 .photo {
@@ -115,4 +117,60 @@ input {
 .shubham {
   width: 5vw;
   padding: 5px;
+}
+
+.foodtitle {
+  font-size: 4vw;
+}
+
+.sweetpage {
+  width: 25vw;
+}
+
+.recipeintro {
+  background-color: #406882;
+  color: white;
+}
+
+.recipeintropara {
+  font-family: 'Merriweather', serif;
+  padding: 10%;
+  font-size: 2vw;
+}
+
+.recipeintro2 {
+  background-color: #6998AB;
+  color: white;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  font-size: 2vw;
+}
+
+.recipetable {
+  width: 100%;
+  padding: 10vw 0;
+}
+
+.recipesec {
+  font-size: 4vw;
+  font-family: 'Merriweather', serif;
+}
+
+.recipesec1 {
+  font-size: 2vw;
+  padding-top: 10vw;
+}
+
+.ul {
+  text-align: left;
+  margin: 0;
+  padding: 2vw;
+}
+
+.instructions {
+  background-color: #B1D0E0;
+  color: #1A374D;
+  padding: 10vw;
+  font-size: 2vw;
+  font-family: 'Merriweather', serif;
 }

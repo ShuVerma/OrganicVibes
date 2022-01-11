@@ -17,3 +17,8 @@ First project based on TheOdinProject and Web Dev bootcamp (Udemy).
 11-01-2022
 -  Fixed landing page extra space
 -  Finished landing page with links
+-  Created Sweet page
+-  Fixed alignment
+-  Fixed table
+-  Fixed layout
+-  Finished Sweet page
