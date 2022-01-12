@@ -27,3 +27,5 @@ First project based on TheOdinProject and Web Dev bootcamp (Udemy).
 -  Created Savoury page
 -  Mirrored Sweet page layout
 -  Finished Savoury page
+-  Added github
+-  Finished website
