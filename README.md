@@ -22,3 +22,8 @@ First project based on TheOdinProject and Web Dev bootcamp (Udemy).
 -  Fixed table
 -  Fixed layout
 -  Finished Sweet page
+
+12-01-2022
+-  Created Savoury page
+-  Mirrored Sweet page layout
+-  Finished Savoury page
